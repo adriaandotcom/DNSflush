@@ -9,4 +9,4 @@ Simple way to flush your DNS on a Mac.
 Download
 --------
 
-You can [download the .ZIP right here](archive/master.zip).
+You can [download the .ZIP right here](https://github.com/harianus/DNSflush/archive/master.zip).
